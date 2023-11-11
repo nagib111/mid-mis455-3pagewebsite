@@ -106,3 +106,6 @@ ul li a {
     font-size: 14px;
     line-height: 1.5;
 }
+.productsStore{
+    display: flex;  justify-content: center; align-items: center; height: 100vh;
+}
