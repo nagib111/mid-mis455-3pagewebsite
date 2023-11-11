@@ -69,3 +69,40 @@ ul li a {
     width: 30px; 
     margin-right: 10px;
 }
+
+.main-content{
+    text-align: center;
+    font-size: xx-large;
+    font-weight: bold;
+}
+.main-content p {
+    font-family: 'Playpen Sans', sans-serif; 
+}
+.card {
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    overflow: hidden;
+    width: 300px;
+    text-align: center;
+    padding: 20px;
+    margin: 20px;
+}
+
+.card img {
+    max-width: 100%;
+    height: auto;
+    border-bottom: 1px solid #ddd;
+    padding-bottom: 10px;
+}
+
+.card h2 {
+    color: #333;
+    margin-top: 10px;
+}
+
+.card p {
+    color: #666;
+    font-size: 14px;
+    line-height: 1.5;
+}
